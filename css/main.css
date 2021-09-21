@@ -94,3 +94,31 @@
     font-size: 40px;
     margin-bottom: 10px;
 }
+
+.full-section-three{
+    position: relative;
+    height: 100vh;
+    background: #ffff00;
+}
+
+.full-section-three img{
+    position: absolute;
+    width: 55%;    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.full-section-three .content{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #008000;
+}
+
+.full-section-three .content h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
