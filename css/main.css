@@ -39,6 +39,8 @@
     font-weight: 700;
 }
 
+/* Full section one */
+
 .full-section-one{
     position: relative;
     height: 100vh;
@@ -67,6 +69,8 @@
     margin-bottom: 10px;
 }
 
+/* Full section two */
+
 .full-section-two{
     position: relative;
     height: 100vh;
@@ -94,6 +98,8 @@
     font-size: 40px;
     margin-bottom: 10px;
 }
+
+/* Full section three */
 
 .full-section-three{
     position: relative;
